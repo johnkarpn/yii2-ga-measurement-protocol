@@ -1,5 +1,5 @@
 {
-    "name": "baibaratsky/yii2-ga-measurement-protocol",
+    "name": "johnkarpn/yii2-ga-measurement-protocol",
     "description": "Google Analytics Measurement Protocol for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii", "yii2", "ga", "google analytics", "measurement protocol", "analytics.js"],
